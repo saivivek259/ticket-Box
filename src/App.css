@@ -1,0 +1,22 @@
+.auth-container {
+    background: #f54236;
+    height: 100vh;
+}
+
+.auth-inner-container{
+    padding: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-btn {
+    background-color: #f54236 !important;
+    border: none !important;
+    width: 100%
+}
+
+.login-btn {
+    background-color: #f54236 !important;
+    border: none !important;
+}
